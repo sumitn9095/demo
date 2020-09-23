@@ -20,11 +20,11 @@
       "education":"BBB",
       "degree":"B.A.",
       "experience":8,
-      "work": {
+      "work": [
         "vvv",
         "jjj",
         "bgb"
-      }
+      ]
     },
     {
       "id":3,
@@ -33,12 +33,12 @@
       "education":"CCC",
       "degree":"B.Tech.",
       "experience":3,
-      "work": {
+      "work": [
         "uuu",
         "ngh",
         "oip",
         "qwq"
-      }
+      ]
     },
     {
       "id":4,
@@ -47,10 +47,10 @@
       "education":"DDD",
       "degree":"B.Design.",
       "experience":5,
-      "work": {
+      "work": [
         "qwe",
         "vds"
-      }
+      ]
     },
     {
       "id":5,
@@ -59,9 +59,9 @@
       "education":"EEE",
       "degree":"B.Sc.",
       "experience":7,
-      "work": {
+      "work": [
         "qwe"
-      }
+      ]
     }
    ],
   "posts": [
