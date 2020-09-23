@@ -6,7 +6,10 @@
       "salary":45,
       "education":"AAA",
       "degree":"B.Com",
-      "experience":4
+      "experience":4,
+      "work": {
+        "qqq","fsd","bgb"
+      }
     },
     {
       "id":2,
@@ -14,7 +17,10 @@
       "salary":34,
       "education":"BBB",
       "degree":"B.A.",
-      "experience":8
+      "experience":8,
+      "work": {
+        "vvv","jjj","bgb"
+      }
     },
     {
       "id":3,
@@ -22,7 +28,10 @@
       "salary":23,
       "education":"CCC",
       "degree":"B.Tech.",
-      "experience":3
+      "experience":3,
+      "work": {
+        "uuu","ngh","oip", "qwq"
+      }
     },
     {
       "id":4,
@@ -30,7 +39,10 @@
       "salary":28,
       "education":"DDD",
       "degree":"B.Design.",
-      "experience":5
+      "experience":5,
+      "work": {
+        "qwe","vds"
+      }
     },
     {
       "id":5,
@@ -38,7 +50,10 @@
       "salary":65,
       "education":"EEE",
       "degree":"B.Sc.",
-      "experience":7
+      "experience":7,
+      "work": {
+        "qwe"
+      }
     }
    ],
   "posts": [
