@@ -7,11 +7,11 @@
       "education":"AAA",
       "degree":"B.Com",
       "experience":4,
-      "work": {
+      "work": [
         "qqq",
         "fsd",
         "bgb"
-      }
+      ]
     },
     {
       "id":2,
